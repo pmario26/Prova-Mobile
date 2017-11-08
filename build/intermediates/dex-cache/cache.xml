@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.8.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.8.1_161966a2d944fd2015984d0d6ee1449c7d34d8e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aula/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_d03cdb354fad0cad033dbed50b183fef948caa2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_44ef9cdf964ac7678bb1e088059573e097d2a31e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_a16a7daa24509adb827e6d3fb3d11e0bea1aa669.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_877911f8c711b60e68e95fe1fe35d3a4ad1cf480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enc/lucas.assis/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.8.1_1cedbb8661549ee28473d4f5b990b80f60f2bc7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_6c5227d64b87e5fcdcd9bd31954ecb21cf45925a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_d85eb4c9c846b971eb4e412e0c23acaefc597276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_da1a5483c794cada7dade937bd6295df4a0d9e41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_1f4a5f67cef1b9ed2cec8cc4b98d82f3c509d53b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_660732d8892032ed1a9f42f23d73630052d28273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_4a64a15be66c77ecb4a45e88e114b868b42f8ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/enc/lucas.assis/Downloads/bruno_mend94-localizator-2.3-b3209e8bcc49/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_75676333a4aab8ca3f201ff153f7e20c443e0208.jar" />
+    </item>
+
+</items>
